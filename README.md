@@ -85,28 +85,21 @@ Deploy frontend to Netlify/Vercel.
 Ensure Firebase config is set in environment variables.
 For n8n workflows, host n8n (self-hosted or cloud) and connect with Firebase.
 
- Demo Video
- Link to Demo Video
+Demo Video
+Link to Demo Video
 (https://youtu.be/ZVxflaM80RU)
 
- Live Website link:- 
- (https://seva-plus.netlify.app/landing)
+Live Website link:- 
+(https://seva-plus.netlify.app/landing)
 
 Future Scope
 AI-powered crowd prediction from CCTV feeds.
-
 AR navigation for pilgrims without scanning QR codes.
-
 IVR/voice assistant for non-smartphone users.
-
 Integration with city’s waste & water IoT systems.
-
 
 Team
 Kumari Shambhavi ( Lead & Presenter )
-
 Sumit Kumar ( Developer )
-
 Pritish Kumar ( Developer )
-
 Arman Mishra ( Research & Insights lead)
