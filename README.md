@@ -4,7 +4,7 @@
 Seva+ is a realtime sanitation and crowd management system designed to handle the massive scale of the Simhastha festival in Ujjain, where millions of pilgrims gather.
 Our platform empowers admins, staff, and the public to work together — keeping the city cleaner, safer, and smarter.
 
- Problem We Solve
+Problem We Solve
 The Simhastha festival puts extreme pressure on Ujjain’s infrastructure:
 
  River Pollution → Floral waste, plastics, and bottles pollute the Kshipra.
@@ -12,7 +12,7 @@ The Simhastha festival puts extreme pressure on Ujjain’s infrastructure:
  Unclean Toilets & Waste → Overflowing bins and poor maintenance.
  Water Shortages → Locals face scarcity, pilgrims struggle to find water points.
  
- Our Solution — Seva+
+Our Solution — Seva+
 Seva+ combines technology + realtime data to address these problems:
 
  Admin Dashboard → Manage staff, teams, shifts, facilities, and issues in one place.
@@ -23,7 +23,7 @@ Seva+ combines technology + realtime data to address these problems:
  Notification Center → Send alerts via SMS/WhatsApp/Email to individuals or teams.
  Announcements & Ads → Publish festival updates and sponsor ads.
  
-📌 Key Features
+Key Features
 
 For Admins
 Secure login with Firebase Authentication.
@@ -42,7 +42,7 @@ Report issues with photos in realtime.
 Access announcements, safety info, and sponsor ads.
 
 
-🛠️ Tech Stack
+Tech Stack
 Frontend: React.js + TypeScript + TailwindCSS
 Backend & Database: Firebase (Firestore, Auth, Storage)
 Automation & AI Integration: n8n workflows
@@ -50,8 +50,7 @@ Visualization: Recharts / Chart.js (for realtime graphs)
 Deployment: Netlify 
 
 
-🚀 How to Run Locally
-
+How to Run Locally
 Clone this repo:
 ```
 git clone https://github.com/yourusername/seva-plus.git
@@ -81,8 +80,7 @@ npm run dev
 Open http://localhost:5173
  in your browser.
 
- Deployment
-
+Deployment
 Deploy frontend to Netlify/Vercel.
 Ensure Firebase config is set in environment variables.
 For n8n workflows, host n8n (self-hosted or cloud) and connect with Firebase.
@@ -94,14 +92,21 @@ For n8n workflows, host n8n (self-hosted or cloud) and connect with Firebase.
  Live Website link:- 
  (https://seva-plus.netlify.app/landing)
 
- Future Scope
+Future Scope
 AI-powered crowd prediction from CCTV feeds.
+
 AR navigation for pilgrims without scanning QR codes.
+
 IVR/voice assistant for non-smartphone users.
+
 Integration with city’s waste & water IoT systems.
 
- Team
+
+Team
 Kumari Shambhavi ( Lead & Presenter )
+
 Sumit Kumar ( Developer )
+
 Pritish Kumar ( Developer )
+
 Arman Mishra ( Research & Insights lead)
