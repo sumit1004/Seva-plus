@@ -97,7 +97,7 @@ AR navigation for pilgrims without scanning QR codes.
 IVR/voice assistant for non-smartphone users.
 Integration with city’s waste & water IoT systems.
 
-Team
+Team:-
 
 Kumari Shambhavi ( Lead & Presenter ),
 
@@ -106,3 +106,6 @@ Sumit Kumar ( Developer ),
 Pritish Kumar ( Developer ),
 
 Arman Mishra ( Research & Insights lead)
+
+
+With Seva+, we aim to make Simhastha 2028 a cleaner, safer, and smarter festival.
