@@ -98,7 +98,11 @@ IVR/voice assistant for non-smartphone users.
 Integration with city’s waste & water IoT systems.
 
 Team
+
 Kumari Shambhavi ( Lead & Presenter ),
+
 Sumit Kumar ( Developer ),
+
 Pritish Kumar ( Developer ),
+
 Arman Mishra ( Research & Insights lead)
