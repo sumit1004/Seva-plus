@@ -4,7 +4,7 @@
 Seva+ is a realtime sanitation and crowd management system designed to handle the massive scale of the Simhastha festival in Ujjain, where millions of pilgrims gather.
 Our platform empowers admins, staff, and the public to work together — keeping the city cleaner, safer, and smarter.
 
-Problem We Solve
+Problem We Solve:-
 The Simhastha festival puts extreme pressure on Ujjain’s infrastructure:
 
  River Pollution → Floral waste, plastics, and bottles pollute the Kshipra.
@@ -23,8 +23,7 @@ Seva+ combines technology + realtime data to address these problems:
  Notification Center → Send alerts via SMS/WhatsApp/Email to individuals or teams.
  Announcements & Ads → Publish festival updates and sponsor ads.
  
-Key Features
-
+Key Features:-
 For Admins
 Secure login with Firebase Authentication.
 Dashboard with live KPIs (staff count, issues, emergencies).
@@ -34,7 +33,7 @@ Task assignment with proof upload & supervisor verification.
 QR Code generator for facilities, tasks, and attendance.
 Realtime analytics with graphs & reports export.
 
-For Public Users
+For Public Users:-
 Mobile-friendly web app (no downloads needed).
 QR scan → See nearest toilets, water kiosks, dustbins, routes.
 Facility status: clean/dirty, full/empty, working/faulty.
@@ -42,7 +41,7 @@ Report issues with photos in realtime.
 Access announcements, safety info, and sponsor ads.
 
 
-Tech Stack
+Tech Stack:-
 Frontend: React.js + TypeScript + TailwindCSS
 Backend & Database: Firebase (Firestore, Auth, Storage)
 Automation & AI Integration: n8n workflows
@@ -50,7 +49,7 @@ Visualization: Recharts / Chart.js (for realtime graphs)
 Deployment: Netlify 
 
 
-How to Run Locally
+How to Run Locally:-
 Clone this repo:
 ```
 git clone https://github.com/yourusername/seva-plus.git
@@ -99,11 +98,7 @@ IVR/voice assistant for non-smartphone users.
 Integration with city’s waste & water IoT systems.
 
 Team
-
 Kumari Shambhavi ( Lead & Presenter ),
-
 Sumit Kumar ( Developer ),
-
 Pritish Kumar ( Developer ),
-
 Arman Mishra ( Research & Insights lead)
